@@ -5,7 +5,7 @@ body {text-align: center;
     font-size: 1em;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 100;}
-    
+
 h1 {display: block;
     margin-block-start: 2em;
     margin-block-end: 0em;
@@ -18,6 +18,13 @@ h2 {text-align: center;
     margin-block-start: 0em;
     margin-block-end: 0em;
     font-size: 3em;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+}
+h3 {text-align: center;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-size: 1.5em;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 100;
 }
